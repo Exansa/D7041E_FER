@@ -7,7 +7,7 @@ Hello!
 
 3. Link to GitHub: You're here, don't think you need the GitHub-link
 
-4. Link to data used in the miniproject (we used one data set): 
+4. Link to data used in the miniproject (we used one data set): https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 Our mini project is facial expression recognition using a convolutional neural network. It takes about 1h to run a test 
 with the current learning rate, just a heads up :)
