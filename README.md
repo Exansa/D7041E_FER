@@ -16,3 +16,23 @@ To reach grade 4, we've tested several different optimizers and loss functions t
 commented in the code, along with the results (if you don't want to run the tests yourself). 
 
 How to replicate our results: 
+
+For this miniproject we used anaconda3 to run jupyter notebook. Anaconda can be downloaded at https://www.anaconda.com/.
+When you have downloaded anaconda you can clone the git reposatory to your computer.
+From there on there are a few things that will be needed.
+
+Step 1. Download all packages/frameworks that is needed to run the fer_final file. 
+The commands in anaconda are:
+conda install -c anaconda numpy
+conda install -c anaconda pandas
+conda install -c conda-forge tensorflow
+conda install -c conda-forge matplotlib
+conda install -c anaconda scikit-learn
+
+Step 2. Change the path of the dataset in fer_final to whatever path it has on your computer
+
+Step 3. To run the file just run all lines until you get to the dotted line
+
+Step 4. To see the resulting guessing from the best model run the code under the dotted line
+
+Step ?. When it does not work either contact us through our contact information or watch the top link of our references
