@@ -39,3 +39,10 @@ Step ?. When it does not work either contact us through our contact information 
 
 References:
 
+https://www.youtube.com/watch?fbclid=IwAR23aB4l57jF__UH-bXzLI5XCi9tOWir7ajH5Kpig36fSZM14bgq94QNpfc&v=T3yR9DZT2mQ&feature=youtu.be
+https://www.ibm.com/topics/convolutional-neural-networks
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+https://medium.com/analytics-vidhya/face-recognition-using-knn-open-cv-9376e7517c9f
+https://www.ijser.org/researchpaper/Facial-Expression-Detection-using-KNN-algorithm.pdf?fbclid=IwAR2rjm60zt302gOsZVkysy5Qvke8qLV4PvB8-TiJGDLDigoro6SZoGR7u7k
+https://analyticsindiamag.com/my-first-cnn-project-emotion-detection-using-convolutional-neural-network-with-tpu/?fbclid=IwAR1IMjVNm2nPKRpGmwG2rErkSvnMKkrFrQjDoc5J30mbWQYqiOa7pNs5V8A
+https://www.projectpro.io/article/facial-emotion-recognition-project-using-cnn-with-source-code/570?fbclid=IwAR0O6JDa7c7tKBiCNbG14K0NpkSsVoKpkb9IR4d6sw4yPYo_CUlGGHREGZs
