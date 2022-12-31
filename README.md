@@ -3,7 +3,7 @@ Hello!
 1. This is the mini project of group #1. The group consists of Matilda Segerlund and 
    Magnus Stenfelt (matseg-9@student.ltu.se, magset-8@student.ltu.se). 
    
-2. Link to YouTube presentation: 
+2. Link to YouTube presentation: https://youtu.be/eTSDDYqmwu4
 
 3. Link to GitHub: You're here, don't think you need the GitHub-link
 
